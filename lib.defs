@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE Power_Divider_lib Power_Divider_lib
+ASSIGN Power_Divider_lib libMode shared

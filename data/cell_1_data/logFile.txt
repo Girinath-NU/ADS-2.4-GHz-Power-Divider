@@ -1,0 +1,17 @@
+
+hpeesofsim (*) 571.shp Nov  8 2022, MINT version 5
+    (64-bit windows built: Wed Nov 09, 2022 05:38:21 +0000)
+
+
+***** Simulation started at Wed Apr  8 11:31:07 2026
+      Running on host: "RFCoE9"
+      In Directory: "C:\Users\sastra\Power_Divider_wrk\data"
+      Process ID: 15072
+
+
+SP SP1[1] <Power_Divider_lib:cell_1:schematic>   freq=(1 GHz->5 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     3.99 seconds.
+

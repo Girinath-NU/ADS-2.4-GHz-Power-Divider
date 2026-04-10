@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=Power_Divider_lib:cell_2:layout
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"
